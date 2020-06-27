@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">joystick2</string>
+    <string name="ipaddress">Ip address</string>
+    <string name="portNumber">Port number</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="connected">Connected</string>
+</resources>
